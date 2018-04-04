@@ -297,7 +297,7 @@ h4.expand-toggled{
 }
 
 #django::after {
-    max-width: 40%;
+    max-width: 50%;
 }
 
 #scss::after {
