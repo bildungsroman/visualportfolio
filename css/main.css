@@ -253,7 +253,7 @@ h4.expand-toggled{
 }
 
 #css::after {
-    max-width: 80%;
+    max-width: 90%;
 }
 
 #boot::after {
@@ -261,7 +261,7 @@ h4.expand-toggled{
 }
 
 #material::after {
-    max-width: 85%;
+    max-width: 90%;
 }
 
 #js::after {
@@ -285,7 +285,7 @@ h4.expand-toggled{
 }
 
 #command::after {
-    max-width: 40%;
+    max-width: 50%;
 }
 
 #react::after {
@@ -293,11 +293,11 @@ h4.expand-toggled{
 }
 
 #vue::after {
-    max-width: 30%;
+    max-width: 40%;
 }
 
 #django::after {
-    max-width: 50%;
+    max-width: 60%;
 }
 
 #scss::after {
@@ -325,15 +325,15 @@ h4.expand-toggled{
 }
 
 #complex::after {
-    max-width: 70%;
+    max-width: 80%;
 }
 
 #webapp::after {
-    max-width: 40%;
+    max-width: 80%;
 }
 
 #facebook::after {
-    max-width: 10%;
+    max-width: 25%;
 }
 
 #startups::after {
