@@ -289,11 +289,11 @@ h4.expand-toggled{
 }
 
 #react::after {
-    max-width: 0%;
+    max-width: 5%;
 }
 
 #vue::after {
-    max-width: 40%;
+    max-width: 50%;
 }
 
 #django::after {
