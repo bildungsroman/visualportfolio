@@ -281,7 +281,7 @@ h4.expand-toggled{
 }
 
 #git::after {
-    max-width: 70%;
+    max-width: 80%;
 }
 
 #command::after {
@@ -333,7 +333,7 @@ h4.expand-toggled{
 }
 
 #complex::after {
-    max-width: 80%;
+    max-width: 90%;
 }
 
 #webapp::after {
