@@ -38,16 +38,6 @@ body {
     background-attachment: fixed;
 }
 
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * Vendor-prefixed and regular ::selection selectors cannot be combined:
- * https://stackoverflow.com/a/16982510/7133471
- *
- * Customize the background color to match your design.
- */
-
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
@@ -58,10 +48,6 @@ body {
     text-shadow: none;
 }
 
-/*
- * A better looking default horizontal rule
- */
-
 hr {
     display: block;
     height: 1px;
@@ -70,12 +56,6 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
-
-/*
- * Remove the gap between audio, canvas, iframes,
- * images, videos and the bottom of their containers:
- * https://github.com/h5bp/html5-boilerplate/issues/440
- */
 
 audio,
 canvas,
@@ -86,19 +66,11 @@ video {
     vertical-align: middle;
 }
 
-/*
- * Remove default fieldset styles.
- */
-
 fieldset {
     border: 0;
     margin: 0;
     padding: 0;
 }
-
-/*
- * Allow only vertical resizing of textareas.
- */
 
 textarea {
     resize: vertical;
@@ -116,7 +88,7 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+   Custom styles
    ========================================================================== */
 
 h1 {
@@ -126,7 +98,7 @@ h1 {
     font-size: 5vw;
 }
 
-#expand-wrap{
+#expand-wrap {
     margin-top: 10vh;
     padding:0;
     min-height:20vh;
@@ -187,9 +159,7 @@ h4 a.expand-toggle {
     margin:0;
     position: relative;
 }
-h4:hover{
-    color: #37474F;
-}
+
 h4.expand-toggled{
     background-color: #b3e0f2;
 }
@@ -218,6 +188,10 @@ h4.expand-toggled{
     color: #fff;
     /*   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
+.bar:hover {
+    background: rgba(55,71,79,.4);
+}
+
 .bar + .bar {
     margin-top: 10px;
 }
