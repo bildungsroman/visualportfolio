@@ -239,7 +239,7 @@ h4.expand-toggled{
 }
 
 #js::after {
-    max-width: 75%;
+    max-width: 85%;
 }
 
 #jq::after {
@@ -255,27 +255,27 @@ h4.expand-toggled{
 }
 
 #git::after {
-    max-width: 80%;
+    max-width: 90%;
 }
 
 #command::after {
-    max-width: 50%;
-}
-
-#react::after {
-    max-width: 45%;
-}
-
-#serverless::after {
     max-width: 60%;
 }
 
+#react::after {
+    max-width: 70%;
+}
+
+#serverless::after {
+    max-width: 75%;
+}
+
 #aws::after {
-    max-width: 40%;
+    max-width: 50%;
 }
 
 #vue::after {
-    max-width: 50%;
+    max-width: 30%;
 }
 
 #django::after {
@@ -283,23 +283,19 @@ h4.expand-toggled{
 }
 
 #scss::after {
-    max-width: 10%;
+    max-width: 40%;
 }
 
 #node::after {
-    max-width: 35%;
+    max-width: 75%;
 }
 
-#swift::after {
+#native::after {
     max-width: 0%;
 }
 
-#fast::after {
-    max-width: 0%;
-}
-
-#tensor::after {
-    max-width: 0%;
+#docs::after {
+    max-width: 100%;
 }
 
 #static::after {
@@ -307,19 +303,19 @@ h4.expand-toggled{
 }
 
 #complex::after {
-    max-width: 90%;
+    max-width: 100%;
 }
 
 #webapp::after {
-    max-width: 80%;
+    max-width: 90%;
 }
 
 #backend::after {
-    max-width: 45%;
+    max-width: 75%;
 }
 
 #facebook::after {
-    max-width: 40%;
+    max-width: 60%;
 }
 
 #startups::after {
@@ -343,7 +339,7 @@ h4.expand-toggled{
 }
 
 #kungfu::after {
-    max-width: 60%;
+    max-width: 70%;
 }
 
 .bar h4 {
