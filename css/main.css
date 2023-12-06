@@ -330,6 +330,10 @@ h4.expand-toggled{
     max-width: 70%;
 }
 
+#speaking::after {
+    max-width: 60%;
+}
+
 #entre::after {
     max-width: 90%;
 }
